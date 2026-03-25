@@ -5,7 +5,7 @@ A robust, full-stack Task Management application designed for productivity. Buil
 ---
 
 ## 🚀 Live Demo
-* **Frontend:** [(https://full-stack-task-manager-beige.vercel.app/)]
+* **Frontend:** [https://full-stack-task-manager-beige.vercel.app/]
 * **Backend API:** [https://full-stack-task-manager-hzhr.onrender.com]
 
 ---
