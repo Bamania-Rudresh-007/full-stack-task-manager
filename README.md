@@ -5,8 +5,8 @@ A robust, full-stack Task Management application designed for productivity. Buil
 ---
 
 ## 🚀 Live Demo
-* **Frontend:** [Your Vercel Link Here]
-* **Backend API:** [Your Render Link Here]
+* **Frontend:** [(https://full-stack-task-manager-beige.vercel.app/)]
+* **Backend API:** [https://full-stack-task-manager-hzhr.onrender.com]
 
 ---
 
@@ -43,18 +43,6 @@ A robust, full-stack Task Management application designed for productivity. Buil
 
 ---
 
-## 📸 Screenshots
-
-| Login Page | Dashboard |
-|---|---|
-| ![Login Page](link-to-your-image) | ![Dashboard](link-to-your-image) |
-
-| Create Task | Task Filtering |
-|---|---|
-| ![Create Task](link-to-your-image) | ![Filtering](link-to-your-image) |
-
----
-
 ## 🧠 Key Learnings
 
 * **RESTful API Design:** Implementing structured endpoints for resource management.
@@ -71,23 +59,23 @@ A robust, full-stack Task Management application designed for productivity. Buil
    ```bash
    git clone [https://github.com/your-username/task-manager.git](https://github.com/your-username/task-manager.git)
    
-2. **Install Backend Dependencies:
+2. **Install Backend Dependencies:**
    ```bash
    cd backend
    npm install
    
-3. **Install Frontend Dependencies:
+3. **Install Frontend Dependencies:**
    ```bash
    cd ../frontend
    npm install
    
-4. **Environment Variables:
+4. **Environment Variables:**
    ```env
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_secret_key
    PORT=5000
    
-5. **Run the App:
+5. **Run the App:**
    ```bash
       # In backend folder
       npm run dev
